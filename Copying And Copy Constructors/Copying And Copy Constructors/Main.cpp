@@ -18,7 +18,7 @@ public:
 	{
 		m_Buffer = new char[m_Size + 1];
 		memcpy(this->m_Buffer, other.m_Buffer, m_Size + 1);
-		std::cout << "Copied Const" << std::endl;
+		std::cout << "Copied Constructor" << std::endl;
 	}
 	~String()
 	{

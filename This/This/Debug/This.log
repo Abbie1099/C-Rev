@@ -1,0 +1,7 @@
+﻿  Main.cpp
+E:\Stuffs\Abani\Personal\C++\This\This\Main.cpp(4,6): error C2182: 'print': illegal use of type 'void'
+E:\Stuffs\Abani\Personal\C++\This\This\Main.cpp(4,12): error C2065: 'Entity': undeclared identifier
+E:\Stuffs\Abani\Personal\C++\This\This\Main.cpp(4,20): error C2065: 'e': undeclared identifier
+E:\Stuffs\Abani\Personal\C++\This\This\Main.cpp(14,3): error C2064: term does not evaluate to a function taking 1 arguments
+E:\Stuffs\Abani\Personal\C++\This\This\Main.cpp(19,6): error C2365: 'print': redefinition; previous definition was 'data variable'
+E:\Stuffs\Abani\Personal\C++\This\This\Main.cpp(4): message : see declaration of 'print'
